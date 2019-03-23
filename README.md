@@ -1,7 +1,5 @@
-youtube-dl-nas의 rest api를 이용한 tempermonkey 소스. 
+youtube-dl 의 rest api를 이용한 tempermonkey 소스. 
 
-youtube-dl-nas (rest api 수정 버전) 
-https://hub.docker.com/r/noname09/youtube-dl-nas/
 
 
 
