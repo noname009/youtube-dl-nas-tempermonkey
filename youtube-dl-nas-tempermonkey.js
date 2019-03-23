@@ -69,7 +69,7 @@ function Addytpolymer1() {
     addButton.style.borderRadius = "10px";
     addButton.style.fontFamily = "Roboto, Arial, sans-serif";
     addButton.style.textDecoration = "none";
-    addButton.href = 'javascript:!function(){fetch("https://주소:포트/rest",{body:new URLSearchParams({url:window.location.href,resolution:"best",id:"아이디", pw:"암호"}),method:"POST"})}();';
+    addButton.href = '';
     addButton.target = "_blank";
     buttonDiv.appendChild(addButton);
     var targetElement = document.querySelectorAll("[id='meta']");
@@ -96,7 +96,7 @@ function Addytpolymer1() {
     addButton2.style.borderRadius = "10px";
     addButton2.style.fontFamily = "Roboto, Arial, sans-serif";
     addButton2.style.textDecoration = "none";
-    addButton2.href = 'javascript:!function(){fetch("https://주소:포트/rest",{body:new URLSearchParams({url:window.location.href,resolution:"2160p",id:"아이디", pw:"암호"}),method:"POST"})}();';
+    addButton2.href = '';
     addButton2.target = "_blank";
     buttonDiv2.appendChild(addButton2);
     var targetElement = document.querySelectorAll("[id='meta']");
@@ -123,7 +123,7 @@ function Addytpolymer3() {
     addButton2.style.borderRadius = "10px";
     addButton2.style.fontFamily = "Roboto, Arial, sans-serif";
     addButton2.style.textDecoration = "none";
-    addButton2.href = 'javascript:!function(){fetch("https://주소:포트/youtube-dl/rest",{body:new URLSearchParams({url:window.location.href,resolution:"1440p",id:"아이디", pw:"아이디"}),method:"POST"})}();';
+    addButton2.href = '';
     addButton2.target = "_blank";
     buttonDiv2.appendChild(addButton2);
     var targetElement = document.querySelectorAll("[id='meta']");
@@ -150,7 +150,7 @@ function Addytpolymer4() {
     addButton2.style.borderRadius = "10px";
     addButton2.style.fontFamily = "Roboto, Arial, sans-serif";
     addButton2.style.textDecoration = "none";
-    addButton2.href = 'javascript:!function(){fetch("https://주소:포트/rest",{body:new URLSearchParams({url:window.location.href,resolution:"mp3",id:"아이디", pw:"아이디"}),method:"POST"})}();';
+    addButton2.href = '';
     addButton2.target = "_blank";
     buttonDiv2.appendChild(addButton2);
     var targetElement = document.querySelectorAll("[id='meta']");
